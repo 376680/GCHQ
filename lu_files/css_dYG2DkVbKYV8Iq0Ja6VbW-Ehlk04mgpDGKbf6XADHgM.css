@@ -1,0 +1,2 @@
+/* @license GPL-2.0-or-later https://www.drupal.org/licensing/faq */
+.gin-secondary-toolbar--frontend{position:fixed !important;top:var(--gin-toolbar-height) !important;left:var(--gin-toolbar-x-offset);width:calc(100% - var(--gin-toolbar-x-offset));}html{--gin-toolbar-y-offset:calc(var(--gin-toolbar-height) + var(--gin-toolbar-secondary-height)) !important;}
